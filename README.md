@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The goal of this project is to analyze the esports industry and identify investment opportunities for investors using different live data resources and building a dynamic graphs
+The goal of this project is to analyze the esports industry and identify investment opportunities for investors using different live data resources and building a dynamic graphs to help choosing the required information
 <br />
 
 
