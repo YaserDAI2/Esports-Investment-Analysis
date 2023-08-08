@@ -1,51 +1,65 @@
 <h1>Esports Investment Analysis</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The goal of this project is to analyze the esports industry and identify investment opportunities for investors using different live data resources and building a dynamic graphs
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Tableau</b> 
+- <b>Python</b>
+- <b>Excel</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Analysis</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Based on the data the growth of Esports indusstry have a huge growth from 2012 to 2019 , and the drop in 2020 due to COVID_19 <br/>
+<img src="https://i.imgur.com/oOswXQ1.png"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Highest prize pools in Esports history and most of them in Dota 2 game and colors represent games <br/>
+<img src="https://i.imgur.com/u64fQ1K.png"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The growth of audience overtime with Average of all games and Peek viewers for the games based on Youtube, Twitch and other streaming platforms <br/>
+<img src="https://i.imgur.com/5ijweI9.png"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Number of events for each Esports games comparing to the number of active players  <br/>
+<img src="https://i.imgur.com/fzP40WN.png"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Total prize pool per game comparing to Number of events dota 2 have one of the lowest number of events but have huge prize pools<br/>
+<img src="https://i.imgur.com/7mfFQUA.png"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Top 10 earning players with their events winrate (reaching Top 1 ) and all of them Dota 2 players <br/>
+<img src="https://i.imgur.com/vTFSMW1.png"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Top Esports teams based on total earning , the top 2 almost equal , OG joined 3 games and Liquid 9 games <br/>
+<img src="https://i.imgur.com/I4BlT6J.png"/>
+<br />
+<br />
+For Team OG the graph shows the most successful game Dota 2 , its shows how many time they got first place,second place and third place <br/>
+<img src="https://i.imgur.com/ekd4HlY.png"/>
+<br />
+<br />
+For Team Liquiod the graph shows the most successful game Dota 2 based on getting top 1 and have the highest prize pools <br/>
+<img src="https://i.imgur.com/WgRlgYx.png"/>
 </p>
+
+<h2>Recommendation</h2>
+
+- <b>Invest in teams that are already successful. This is a safer bet, as you know that the team has a track record of winning and generating revenue.</b> 
+- <b>Invest in teams that are up-and-coming. These teams may not be as successful as the established teams yet, but they have the potential to grow rapidly. </b>
+- <b>Sponsor a team that is popular in your target market.</b>
+- <b>Sponsor an event that is attended by your target market. </b> 
+- <b>Invest in esports events, Esports events can be very profitable, and they offer a good way to reach a large audience. </b>
+
 
 <!--
  ```diff
